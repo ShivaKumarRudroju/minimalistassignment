@@ -1,0 +1,22 @@
+.navbar {
+  width: 100%;
+  height: 71px;
+  left: -30px;
+  padding: 12px 1232px 11.77px 120px;
+  gap: 0px;
+  border: 0px 0px 1px 0px;
+  opacity: 0px;
+  background: #1c1c1c33;
+  border-bottom: 1px solid #ff777766;
+  position: fixed;
+}
+.logo {
+  width: 116px;
+  height: 47.23px;
+  top: 12px;
+  left: 120px;
+  gap: 0px;
+  opacity: 0px;
+  display: flex;
+  align-self: start;
+}

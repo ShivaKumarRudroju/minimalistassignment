@@ -1,0 +1,34 @@
+.footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 100%;
+  height: 188px;
+  background-color: #25a769;
+}
+.footer-text {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.socialmedia {
+  top: 58px;
+  left: 591px;
+  gap: 20px;
+  opacity: 0px;
+  display: flex;
+  justify-content: space-around;
+}
+.footer-img {
+  margin: 10px;
+}
+.footer-page {
+  margin-top: 200px;
+}
+.line-img {
+  width: 100%;
+}
+.follow-text {
+  font-family: Neue Metana;
+  color: #ece14c;
+}

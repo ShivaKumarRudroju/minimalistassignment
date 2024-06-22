@@ -1,0 +1,33 @@
+.header {
+  background-image: url("https://res.cloudinary.com/dtll9buf5/image/upload/v1718994179/Frame_6_mhpdwg.png");
+  width: 100%;
+  height: 527px;
+  gap: 0px;
+  opacity: 0px;
+}
+.heading {
+  font-family: Roboto;
+  font-size: 44px;
+  font-weight: 600;
+  line-height: 56px;
+  text-align: left;
+  color: white;
+  margin-top: 150px;
+}
+.heading-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin-left: 150px;
+}
+.quick-btn {
+  width: Fixed (211px) px;
+  height: Fixed (52px) px;
+  top: 401px;
+  left: 120px;
+  gap: 4px;
+  opacity: 0px;
+  color: #fe0000;
+  padding: 10px;
+}

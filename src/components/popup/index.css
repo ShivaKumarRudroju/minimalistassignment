@@ -1,0 +1,92 @@
+.popup {
+  position: fixed;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  background-color: #00000025;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  top: 0px;
+  height: 100%;
+}
+
+.popupcard {
+  display: flex;
+  flex-direction: row;
+  margin-top: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding: 10px;
+  background-color: white;
+  width: 80%;
+  height: 80%;
+}
+.image-section {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin-top: 20px;
+}
+.img {
+  margin-right: 10px;
+  width: 130px;
+}
+.text-section {
+  flex-wrap: wrap;
+}
+.heading {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  color: black;
+  text-align: start;
+}
+.text {
+  color: black;
+}
+.close-btn {
+  background-color: transparent;
+  padding: 10px;
+  border: 0px;
+}
+.close-btn:hover {
+  background-color: red;
+  padding: 10px;
+}
+.choosenow-btn {
+  background-color: #fe0000;
+  padding: 10px;
+  color: white;
+  border: 0px;
+}
+
+.popup-img {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text-section {
+  display: flex;
+
+  flex-direction: row;
+  justify-content: space-between;
+  color: black;
+  flex-wrap: wrap;
+  text-align: start;
+}
+.popup-text {
+  display: flex;
+  flex-direction: column;
+  margin-left: 60px;
+  text-align: start;
+}
+.rajus-text {
+  text-align: start;
+  font-size: 25px;
+  color: black;
+}
+span {
+  font-weight: bold;
+}
